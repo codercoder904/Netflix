@@ -264,7 +264,7 @@ footer {
     #header .nav-bar .logo{
     width: 120px;
     padding-left: 10px;
-    padding-top: 10px;
+    padding-top: 2px;
 }
 }
 @media only screen and (min-width: 768px) {
